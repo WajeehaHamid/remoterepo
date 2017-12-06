@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 hello
 rebase 
-=======
-hello changes
->>>>>>> b1
+
